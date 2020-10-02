@@ -1,0 +1,36 @@
+{
+    "anims": [
+        {
+            "key": "walking",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "covidxe",
+                    "frame": "covidxe_walk_0"
+                },
+                {
+                    "key": "covidxe",
+                    "frame": "covidxe_walk_1"
+                },
+                {
+                    "key": "covidxe",
+                    "frame": "covidxe_walk_2"
+                },
+                {
+                    "key": "covidxe",
+                    "frame": "covidxe_walk_3"
+                },
+                {
+                    "key": "covidxe",
+                    "frame": "covidxe_walk_4"
+                },
+                {
+                    "key": "covidxe",
+                    "frame": "covidxe_walk_5"
+                }
+            ]
+        }
+    ]
+}

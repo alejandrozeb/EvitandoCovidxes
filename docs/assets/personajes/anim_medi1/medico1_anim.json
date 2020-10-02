@@ -1,0 +1,252 @@
+{
+    "anims": [
+        {
+            "key": "jumpstloop",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "medico1",
+                    "frame": "medico_jumpstart_0"
+                },
+                {
+                    "key": "medico1",
+                    "frame": "medico_jumpstart_1"
+                },
+                {
+                    "key": "medico1",
+                    "frame": "medico_jumpstart_2"
+                },
+                {
+                    "key": "medico1",
+                    "frame": "medico_jumpstart_3"
+                },
+                {
+                    "key": "medico1",
+                    "frame": "medico_jumpstart_4"
+                },
+                {
+                    "key": "medico1",
+                    "frame": "medico_jumpstart_5"
+                },
+                {
+                    "key": "medico1",
+                    "frame": "medico_jumploop_0"
+                },
+                {
+                    "key": "medico1",
+                    "frame": "medico_jumploop_1"
+                },
+                {
+                    "key": "medico1",
+                    "frame": "medico_jumploop_2"
+                },
+                {
+                    "key": "medico1",
+                    "frame": "medico_jumploop_3"
+                },
+                {
+                    "key": "medico1",
+                    "frame": "medico_jumploop_4"
+                },
+                {
+                    "key": "medico1",
+                    "frame": "medico_jumploop_5"
+                }
+            ]
+        },
+        {
+            "key": "walk",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "medico1",
+                    "frame": "medico_walk_0"
+                },
+                {
+                    "key": "medico1",
+                    "frame": "medico_walk_1"
+                },
+                {
+                    "key": "medico1",
+                    "frame": "medico_walk_2"
+                },
+                {
+                    "key": "medico1",
+                    "frame": "medico_walk_3"
+                },
+                {
+                    "key": "medico1",
+                    "frame": "medico_walk_4"
+                },
+                {
+                    "key": "medico1",
+                    "frame": "medico_walk_5"
+                }
+            ]
+        },
+        {
+            "key": "jumpstart",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "medico1",
+                    "frame": "medico_jumpstart_0"
+                },
+                {
+                    "key": "medico1",
+                    "frame": "medico_jumpstart_1"
+                },
+                {
+                    "key": "medico1",
+                    "frame": "medico_jumpstart_2"
+                },
+                {
+                    "key": "medico1",
+                    "frame": "medico_jumpstart_3"
+                },
+                {
+                    "key": "medico1",
+                    "frame": "medico_jumpstart_4"
+                },
+                {
+                    "key": "medico1",
+                    "frame": "medico_jumpstart_5"
+                }
+            ]
+        },
+        {
+            "key": "jumploop",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "medico1",
+                    "frame": "medico_jumploop_0"
+                },
+                {
+                    "key": "medico1",
+                    "frame": "medico_jumploop_1"
+                },
+                {
+                    "key": "medico1",
+                    "frame": "medico_jumploop_2"
+                },
+                {
+                    "key": "medico1",
+                    "frame": "medico_jumploop_3"
+                },
+                {
+                    "key": "medico1",
+                    "frame": "medico_jumploop_4"
+                },
+                {
+                    "key": "medico1",
+                    "frame": "medico_jumploop_5"
+                }
+            ]
+        },
+        {
+            "key": "idle",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "medico1",
+                    "frame": "medico_idle_0"
+                },
+                {
+                    "key": "medico1",
+                    "frame": "medico_idle_1"
+                },
+                {
+                    "key": "medico1",
+                    "frame": "medico_idle_2"
+                },
+                {
+                    "key": "medico1",
+                    "frame": "medico_idle_3"
+                },
+                {
+                    "key": "medico1",
+                    "frame": "medico_idle_4"
+                },
+                {
+                    "key": "medico1",
+                    "frame": "medico_idle_5"
+                }
+            ]
+        },
+        {
+            "key": "dying",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "medico1",
+                    "frame": "medico_dying_0"
+                },
+                {
+                    "key": "medico1",
+                    "frame": "medico_dying_1"
+                },
+                {
+                    "key": "medico1",
+                    "frame": "medico_dying_2"
+                },
+                {
+                    "key": "medico1",
+                    "frame": "medico_dying_3"
+                },
+                {
+                    "key": "medico1",
+                    "frame": "medico_dying_4"
+                },
+                {
+                    "key": "medico1",
+                    "frame": "medico_dying_5"
+                }
+            ]
+        },
+        {
+            "key": "down",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "medico1",
+                    "frame": "medico_down_0"
+                },
+                {
+                    "key": "medico1",
+                    "frame": "medico_down_1"
+                },
+                {
+                    "key": "medico1",
+                    "frame": "medico_down_2"
+                },
+                {
+                    "key": "medico1",
+                    "frame": "medico_down_3"
+                },
+                {
+                    "key": "medico1",
+                    "frame": "medico_down_4"
+                },
+                {
+                    "key": "medico1",
+                    "frame": "medico_down_5"
+                }
+            ]
+        }
+    ]
+}

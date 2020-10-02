@@ -1,0 +1,476 @@
+{
+    "frames": [
+        {
+            "filename": "medico_down_0",
+            "frame": {
+                "w": 180,
+                "h": 234,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "medico_down_1",
+            "frame": {
+                "w": 180,
+                "h": 235,
+                "x": 180,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "medico_down_2",
+            "frame": {
+                "w": 180,
+                "h": 236,
+                "x": 360,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "medico_down_3",
+            "frame": {
+                "w": 180,
+                "h": 237,
+                "x": 540,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "medico_down_4",
+            "frame": {
+                "w": 180,
+                "h": 236,
+                "x": 720,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "medico_down_5",
+            "frame": {
+                "w": 180,
+                "h": 235,
+                "x": 900,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "medico_dying_0",
+            "frame": {
+                "w": 180,
+                "h": 237,
+                "x": 0,
+                "y": 237
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "medico_dying_1",
+            "frame": {
+                "w": 180,
+                "h": 235,
+                "x": 180,
+                "y": 237
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "medico_dying_2",
+            "frame": {
+                "w": 180,
+                "h": 233,
+                "x": 360,
+                "y": 237
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "medico_dying_3",
+            "frame": {
+                "w": 180,
+                "h": 231,
+                "x": 540,
+                "y": 237
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "medico_dying_4",
+            "frame": {
+                "w": 180,
+                "h": 242,
+                "x": 720,
+                "y": 237
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "medico_dying_5",
+            "frame": {
+                "w": 180,
+                "h": 225,
+                "x": 900,
+                "y": 237
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "medico_idle_0",
+            "frame": {
+                "w": 180,
+                "h": 237,
+                "x": 0,
+                "y": 479
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "medico_idle_1",
+            "frame": {
+                "w": 180,
+                "h": 238,
+                "x": 180,
+                "y": 479
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "medico_idle_2",
+            "frame": {
+                "w": 180,
+                "h": 238,
+                "x": 360,
+                "y": 479
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "medico_idle_3",
+            "frame": {
+                "w": 180,
+                "h": 238,
+                "x": 540,
+                "y": 479
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "medico_idle_4",
+            "frame": {
+                "w": 180,
+                "h": 238,
+                "x": 720,
+                "y": 479
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "medico_idle_5",
+            "frame": {
+                "w": 180,
+                "h": 238,
+                "x": 900,
+                "y": 479
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "medico_jumploop_0",
+            "frame": {
+                "w": 180,
+                "h": 234,
+                "x": 0,
+                "y": 717
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "medico_jumploop_1",
+            "frame": {
+                "w": 180,
+                "h": 234,
+                "x": 180,
+                "y": 717
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "medico_jumploop_2",
+            "frame": {
+                "w": 180,
+                "h": 234,
+                "x": 360,
+                "y": 717
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "medico_jumploop_3",
+            "frame": {
+                "w": 180,
+                "h": 234,
+                "x": 540,
+                "y": 717
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "medico_jumploop_4",
+            "frame": {
+                "w": 180,
+                "h": 234,
+                "x": 720,
+                "y": 717
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "medico_jumploop_5",
+            "frame": {
+                "w": 180,
+                "h": 234,
+                "x": 900,
+                "y": 717
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "medico_jumpstart_0",
+            "frame": {
+                "w": 180,
+                "h": 237,
+                "x": 0,
+                "y": 951
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "medico_jumpstart_1",
+            "frame": {
+                "w": 180,
+                "h": 237,
+                "x": 180,
+                "y": 951
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "medico_jumpstart_2",
+            "frame": {
+                "w": 180,
+                "h": 235,
+                "x": 360,
+                "y": 951
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "medico_jumpstart_3",
+            "frame": {
+                "w": 180,
+                "h": 235,
+                "x": 540,
+                "y": 951
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "medico_jumpstart_4",
+            "frame": {
+                "w": 180,
+                "h": 234,
+                "x": 720,
+                "y": 951
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "medico_jumpstart_5",
+            "frame": {
+                "w": 180,
+                "h": 234,
+                "x": 900,
+                "y": 951
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "medico_walk_0",
+            "frame": {
+                "w": 180,
+                "h": 237,
+                "x": 0,
+                "y": 1188
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "medico_walk_1",
+            "frame": {
+                "w": 180,
+                "h": 237,
+                "x": 180,
+                "y": 1188
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "medico_walk_2",
+            "frame": {
+                "w": 180,
+                "h": 237,
+                "x": 360,
+                "y": 1188
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "medico_walk_3",
+            "frame": {
+                "w": 180,
+                "h": 245,
+                "x": 540,
+                "y": 1188
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "medico_walk_4",
+            "frame": {
+                "w": 180,
+                "h": 239,
+                "x": 720,
+                "y": 1188
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "medico_walk_5",
+            "frame": {
+                "w": 180,
+                "h": 241,
+                "x": 900,
+                "y": 1188
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

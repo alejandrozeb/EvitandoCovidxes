@@ -1,0 +1,60 @@
+{
+    "frames": [
+        {
+            "filename": "medico",
+            "frame": {
+                "w": 900,
+                "h": 1189,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "medico_walk_1",
+            "frame": {
+                "w": 900,
+                "h": 1185,
+                "x": 900,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "medico_walk_2",
+            "frame": {
+                "w": 900,
+                "h": 1188,
+                "x": 1800,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "medico_walk_3",
+            "frame": {
+                "w": 900,
+                "h": 1196,
+                "x": 2700,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}

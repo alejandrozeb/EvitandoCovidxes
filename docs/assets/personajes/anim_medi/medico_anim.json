@@ -1,0 +1,28 @@
+{
+    "anims": [
+        {
+            "key": "walk",
+            "type": "frames",
+            "repeat": -1,
+            "frameRate": 12,
+            "frames": [
+                {
+                    "key": "medico",
+                    "frame": "medico"
+                },
+                {
+                    "key": "medico",
+                    "frame": "medico_walk_1"
+                },
+                {
+                    "key": "medico",
+                    "frame": "medico_walk_2"
+                },
+                {
+                    "key": "medico",
+                    "frame": "medico_walk_3"
+                }
+            ]
+        }
+    ]
+}

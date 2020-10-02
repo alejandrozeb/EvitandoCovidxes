@@ -1,0 +1,86 @@
+{
+    "frames": [
+        {
+            "filename": "covidxe_walk_0",
+            "frame": {
+                "w": 432,
+                "h": 288,
+                "x": 0,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "covidxe_walk_1",
+            "frame": {
+                "w": 432,
+                "h": 288,
+                "x": 432,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "covidxe_walk_2",
+            "frame": {
+                "w": 432,
+                "h": 288,
+                "x": 864,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "covidxe_walk_3",
+            "frame": {
+                "w": 432,
+                "h": 288,
+                "x": 1296,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "covidxe_walk_4",
+            "frame": {
+                "w": 432,
+                "h": 288,
+                "x": 1728,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        },
+        {
+            "filename": "covidxe_walk_5",
+            "frame": {
+                "w": 432,
+                "h": 288,
+                "x": 2160,
+                "y": 0
+            },
+            "anchor": {
+                "x": 0.5,
+                "y": 0.5
+            }
+        }
+    ],
+    "meta": {
+        "description": "Atlas generado con Atlas Packer Gamma V2",
+        "web": "https://gammafp.github.io/atlas-packer-phaser/"
+    }
+}
